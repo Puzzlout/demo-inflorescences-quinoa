@@ -1,7 +1,7 @@
 {
-  "name": "journal",
-  "version": "1.0.3",
-  "description": "A template for Vuepress site using Mr Hope's theme",
+  "name": "demo-inflorescence",
+  "version": "1.0.1",
+  "description": "Site web d'Inflorescense, producteur de Quinoa en Normandie",
   "main": "index.js",
   "repository": "https://github.com/Puzzlout/TemplateVuepress",
   "author": "Jérémie Litzler <puzzlout@gmail.com>",
