@@ -2,32 +2,32 @@
 home: true
 containerClass: home-page
 heroFullScreen: true
-title: '[[home-page-title]]'
-heroText: '[[heroText]]'
-description: '[[home-page-description]]'
+title: 'Accueil'
+heroText: 'Quinoa durable'
+description: 'Quinoa durable, produit en Normandie depuis 2021 par Inflorescences.'
 heroImage: /icons/android-chrome-512x512.png
-tagline: '[[tag-line]]'
+tagline: 'Nous produisons le quinoa en Normandie depuis 2021.'
 head:
-  - [meta, { rel: canonical, href: https://example.com/ }]
+  - [meta, { rel: canonical, href: https://example.com/fr/ }]
 actions:
-  - text: '[[secondary-some-action-1]]'
-    link: '#'
+  - text: 'Qui sommes-nous'
+    link: '/page/a-propos/'
     type: secondary
-  - text: '[[primary-some-action-2]]'
-    link: '#'
+  - text: 'Découvrir le Quinoa'
+    link: '/page/le-quinoa/'
     type: primary
-features:
-  - title: '[[some-feature-1]]'
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vehicula ultrices porttitor. Cras eget arcu vel tellus auctor imperdiet ut ac velit.
-    link: '#'
-  - title: '[[some-feature-2]]'
-    details: Curabitur elementum est at diam scelerisque lacinia ac dictum velit. Duis quis posuere est.
-    link: '#'
-  - title: '[[some-feature-3]]'
-    details: Morbi et condimentum diam, et vulputate odio. Quisque ornare metus pretium, vehicula velit at.
-    link: '#'
-  - title: '[[some-feature-4]]'
-    details: Nulla vitae luctus purus. Proin lectus mauris, ultrices ut posuere at, volutpat.
-    link: '#'
-footer: 'GPLv3 Licensed | <a href="page/terms/" title="Read terms and conditions of this website">Terms</a>'
+# features:
+#   - title: '[[some-feature-1_fr]]'
+#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vehicula ultrices porttitor. Cras eget arcu vel tellus auctor imperdiet ut ac velit.
+#     link: '#'
+#   - title: '[[some-feature-2_fr]]'
+#     details: Curabitur elementum est at diam scelerisque lacinia ac dictum velit. Duis quis posuere est.
+#     link: '#'
+#   - title: '[[some-feature-3_fr]]'
+#     details: Morbi et condimentum diam, et vulputate odio. Quisque ornare metus pretium, vehicula velit at.
+#     link: '#'
+#   - title: '[[some-feature-4_fr]]'
+#     details: Nulla vitae luctus purus. Proin lectus mauris, ultrices ut posuere at, volutpat.
+#     link: '#'
+footer: 'Licence GPLv3 | <a href="/gitdepage/terms/" title="Mentions légales">Mentions légales</a>'
 ---

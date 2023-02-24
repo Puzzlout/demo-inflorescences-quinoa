@@ -11,19 +11,19 @@ export default hopeTheme({
     name: 'Jeremie Litzler',
     url: 'https://example.com',
   },
-  repo: 'JeremieLitzler/journal',
-  docsRepo: 'https://github.com/JeremieLitzler/journal',
-  docsBranch: 'main',
+  // repo: 'Puzzlout/demo-inflorescences-quinoa',
+  // docsRepo: 'https://github.com/Puzzlout/demo-inflorescences-quinoa',
+  // docsBranch: 'main',
   docsDir: 'docs',
-  editLinkPattern: ':repo/edit/:branch/:path',
+  // editLinkPattern: ':repo/edit/:branch/:path',
   logo: '/icons/favicon-32x32.png',
-  logoDark: '/icons/dark-favicon-32x32.png',
+  // logoDark: '/icons/dark-favicon-32x32.png',
   locales: {
+    // '/': {
+    //   navbar: enNavBarConfig,
+    //   sidebar: false,
+    // },
     '/': {
-      navbar: enNavBarConfig,
-      sidebar: false,
-    },
-    '/fr/': {
       navbar: frNavBarConfig,
       sidebar: false,
     },
@@ -32,15 +32,15 @@ export default hopeTheme({
   footer:
     'GPLv3 Licensed | <a href="https://example.com/page/terms" title="Read terms and conditions of this website">Terms</a>',
   plugins: {
-    blog: true,
-    comment: {
-      provider: 'Giscus',
-      repo: 'JeremieLitzler/journal',
-      repoId: 'MDEwOlJlcG9zaXRvcnkzOTQ1MzE2NTg=',
-      category: 'Comments',
-      categoryId: 'DIC_kwDOF4QTSs4CTng3',
-      mapping: 'title',
-    },
+    // blog: true,
+    // comment: {
+    //   provider: 'Giscus',
+    //   repo: 'JeremieLitzler/journal',
+    //   repoId: 'MDEwOlJlcG9zaXRvcnkzOTQ1MzE2NTg=',
+    //   category: 'Comments',
+    //   categoryId: 'DIC_kwDOF4QTSs4CTng3',
+    //   mapping: 'title',
+    // },
     mdEnhance: {
       linkCheck: 'always',
       //See https://vuepress-theme-hope.github.io/v2/guide/markdown/align.html
@@ -52,14 +52,16 @@ export default hopeTheme({
       //See https://vuepress-theme-hope.github.io/v2/guide/markdown/container.html
       container: true,
       //See https://vuepress-theme-hope.github.io/v2/guide/markdown/echarts.html
-      echarts: true,
+      //echarts: true,
       //See https://vuepress-theme-hope.github.io/v2/guide/markdown/footnote.html
       //See also https://echarts.apache.org/en/index.html
-      footnote: true,
+      //footnote: true,
       //use the figure, figureCaption to wrap an image
       figure: true,
       //load image lazily with native method
       imgLazyload: true,
+      //allow control of image size
+      //imgSize: true,
       //Syntax: ==this text is marked==
       //See https://vuepress-theme-hope.github.io/v2/guide/markdown/mark.html
       mark: true,
@@ -70,7 +72,7 @@ export default hopeTheme({
       //I'm not sure I need it for now
       //stylize: []
       //See https://vuepress-theme-hope.github.io/v2/guide/markdown/tabs.html
-      tabs: true,
+      //tabs: true,
     },
     pwa: {
       cacheHTML: true,
