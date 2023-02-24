@@ -6,13 +6,13 @@ import { viteBundler } from '@vuepress/bundler-vite';
 // import docsearchPlugin from '@vuepress/plugin-docsearch';
 
 import theme from './theme';
-import { enHeadConfig, frHeadConfig } from './configs/head';
+import { /*enHeadConfig,*/ frHeadConfig } from './configs/head';
 
 export default defineUserConfig({
-  lang: 'en-US',
+  lang: 'fr-FR',
   locales: {
-    '/': enHeadConfig,
-    '/fr/': frHeadConfig,
+    //'/': enHeadConfig,
+    '/': frHeadConfig,
   },
   theme,
   shouldPrefetch: false,

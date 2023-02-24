@@ -1,11 +1,11 @@
 const localeShort = 'fr';
 const localeFull = 'fr-FR';
-const websiteDomain = 'template-vuepress-next.netlify.app';
-const titleDefault = 'Modèle de site web statique Vuepress';
+const websiteDomain = 'demo-inflorescences.netlify.app';
+const titleDefault = 'Inflorescences, Quinoa Durable (DEMO)';
 const descriptionDefault =
-  "Un modèle de site web et blog statique utilisant Vuepress et le magnifique thème de Mr Hope avec tout ce qu'il vous faut";
-const themeColor = '#46b282';
-const repoLink = 'https://github.com/Puzzlout/TemplateVuepress';
+  'Débutée en 2021, la production de quinoa sur la ferme familiale, située à Hermeville, en Seine Maritime. Soucieux de proposer une alimentation de qualité aux consommateurs, nous cultivons dans une démarche d’agroécologie :  protection des sols, de la ressource en eau et de la biodiversité. C’est ainsi que nous sommes actuellement certifiés exploitation à Haute Valeur Environnementale (HVE) de niveau 2, le niveau 3 sera atteint pour la récolte prochaine.';
+const themeColor = '#BD512F';
+const repoLink = 'https://github.com/Puzzlout/demo-inflorescences-quinoa';
 
 export const frHeadConfig = {
   lang: localeFull,
@@ -19,7 +19,8 @@ export const frHeadConfig = {
       'meta',
       {
         property: 'og:url',
-        content: `https://${websiteDomain}/${localeShort}/`,
+        // content: `https://${websiteDomain}/${localeShort}/`,
+        content: `https://${websiteDomain}/`,
       },
     ],
     [

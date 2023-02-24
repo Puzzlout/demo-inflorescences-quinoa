@@ -101,6 +101,10 @@ img {
     overflow-y: scroll;
 }
 
+.custom-page .page-info {
+  display: none;
+}
+
 iframe.contact-form {
   height: 50em;
 }
@@ -149,6 +153,15 @@ iframe.newsletter-embed html {
 
 .article-wrapper img {
   width: 100%;
+}
+
+.product-image-50vw {
+  display: flex;
+  justify-items: center;
+}
+
+.product-image-50vw img {
+  width: 12.5em;
 }
 
 .participate .action-button {
