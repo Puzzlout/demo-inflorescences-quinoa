@@ -1,17 +1,22 @@
 ---
-containerClass: custom-page
-title: 'Présentation'
-description: 'Débutée en 2021, la production de quinoa sur la ferme familiale, située à Hermeville, en Seine Maritime. Soucieux de proposer une alimentation de qualité aux consommateurs, nous cultivons dans une démarche d’agroécologie :  protection des sols, de la ressource en eau et de la biodiversité. C’est ainsi que nous sommes actuellement certifiés exploitation à Haute Valeur Environnementale (HVE) de niveau 2, le niveau 3 sera atteint pour la récolte prochaine.'
-#date:
+title: Présentation
+description: "Débutée en 2021, la production de quinoa sur la ferme familiale,
+  située à Hermeville, en Seine Maritime. Soucieux de proposer une alimentation
+  de qualité aux consommateurs, nous cultivons dans une démarche d’agroécologie
+  :  protection des sols, de la ressource en eau et de la biodiversité. C’est
+  ainsi que nous sommes actuellement certifiés exploitation à Haute Valeur
+  Environnementale (HVE) de niveau 2, le niveau 3 sera atteint pour la récolte
+  prochaine."
+heroImage: docs/.vuepress/dist/camille-vasset-dans-le-champs-de-quinoa-mature-2.JPG
+heroAlt: Camille se trouve dans un champ de quinoa prêt pour la moisson, comme
+  le montre la moissoneuse bateuse dans le fond de l'image.
+date: 2023-02-26T11:41:05.333Z
 head:
-  - [
-      meta,
-      {
-        rel: canonical,
-        href: https://demo-inflorescences.netlify.app/page/a-propos/,
-      },
-    ]
+  - - meta
+    - rel: canonical
+      href: https://demo-inflorescences.netlify.app/page/a-propos/
 article: false
+containerClass: custom-page
 ---
 
 ## Notre histoire et nos valeurs
