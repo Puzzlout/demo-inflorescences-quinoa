@@ -3,7 +3,13 @@ containerClass: custom-page
 title: 'Le Quinoa'
 description: 'Quinoa blond (Chenopodium quinoa), cCultivé sans intrants, en Normandie. Disponibles en sachets de 350g en kraft à zip refermable ou sacs de 3 à 6 kg.'
 head:
-  - [meta, { rel: canonical, href: https://example.com/page/le-quinoa/ }]
+  - [
+      meta,
+      {
+        rel: canonical,
+        href: https://demo-inflorescences.netlify.app/page/le-quinoa/,
+      },
+    ]
 article: false
 ---
 

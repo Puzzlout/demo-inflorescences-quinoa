@@ -4,7 +4,13 @@ title: 'Présentation'
 description: 'Débutée en 2021, la production de quinoa sur la ferme familiale, située à Hermeville, en Seine Maritime. Soucieux de proposer une alimentation de qualité aux consommateurs, nous cultivons dans une démarche d’agroécologie :  protection des sols, de la ressource en eau et de la biodiversité. C’est ainsi que nous sommes actuellement certifiés exploitation à Haute Valeur Environnementale (HVE) de niveau 2, le niveau 3 sera atteint pour la récolte prochaine.'
 #date:
 head:
-  - [meta, { rel: canonical, href: https://example.com/page/a-propos/ }]
+  - [
+      meta,
+      {
+        rel: canonical,
+        href: https://demo-inflorescences.netlify.app/page/a-propos/,
+      },
+    ]
 article: false
 ---
 

@@ -4,7 +4,13 @@ title: 'Contactez-nous'
 description: "Vous avez une question sur notre méthode ? Vous avez un besoin spécifique pour une commande ? C'est ici qu'on vous répond !"
 #date:
 head:
-  - [meta, { rel: canonical, href: https://example.com/page/contactez-nous/ }]
+  - [
+      meta,
+      {
+        rel: canonical,
+        href: https://demo-inflorescences.netlify.app/page/contactez-nous/,
+      },
+    ]
 article: false
 ---
 

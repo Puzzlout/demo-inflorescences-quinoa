@@ -8,7 +8,7 @@ description: 'Quinoa durable, produit en Normandie depuis 2021 par Inflorescence
 heroImage: /icons/android-chrome-512x512.png
 tagline: 'Nous produisons le quinoa en Normandie depuis 2021.'
 head:
-  - [meta, { rel: canonical, href: https://example.com/fr/ }]
+  - [meta, { rel: canonical, href: https://demo-inflorescences.netlify.app/ }]
 actions:
   - text: 'Qui sommes-nous'
     link: '/page/a-propos/'
