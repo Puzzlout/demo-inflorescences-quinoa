@@ -1,4 +1,17 @@
 /* TYPOGRAPHY */
+html[data-theme=dark] body,
+html[data-theme=dark] .navbar .nav-item > .nav-link,
+html[data-theme=dark] .dropdown-wrapper .dropdown-title,
+html[data-theme=dark] .navbar .nav-link,
+html[data-theme=dark] .navbar .site-name {
+  color: var(--black);
+}
+
+html[data-theme=dark] .navbar .nav-link.active {
+  color: var(--theme-color);
+}
+
+
 h1,
 .page-title h1 {
   font-size: 1.8rem;
@@ -39,6 +52,10 @@ img {
   border-radius: 8px;
 }
 
+figcaption {
+  font-style: italic;
+}
+
 .article-item .title {
   text-decoration: underline;
   transform: scale(1.0);
@@ -59,8 +76,33 @@ img {
   margin-left: 2em;
 }
 
+.home-page .hero-info h1,
 .home-page .hero-info .description {
-  color: var(--theme-color-dark);
+  color: var(--white);
+}
+
+html[data-theme=dark] .home-page .hero-info h1,
+html[data-theme=dark] .home-page .hero-info .description,
+html[data-theme=dark] .action-button.primary,
+html[data-theme=dark] .action-button.secondary {
+  color: var(--black);
+}
+
+.buy-quinoa-call-to-action {
+  display: flex;
+  justify-content: center;
+  font-size: 2rem;
+}
+.buy-quinoa-call-to-action a {
+  background-color: var(--theme-color);
+  color: var(--white);
+  border-radius: 20em;
+  padding: 0 1em;
+}
+
+.buy-quinoa-call-to-action a:hover,
+.buy-quinoa-call-to-action a:focus {
+  border: 1px solid var(--black);
 }
 
 .home-page .hero-info-wrapper img,
@@ -73,9 +115,9 @@ img {
   //   margin: 0;
   // }  
 }
-// .home-page {
-//     background: url("/images/wallpaper.webp") center/cover no-repeat;
-// }
+.home-page .project {
+     background: url("/images/poignee-de-quinoa-dans-une-main-2-overlay.jpg") center/cover no-repeat;
+}
 // .home-page header,
 // .home-page .hero-info,
 // .home-page .home.project .hero .description {
@@ -104,6 +146,35 @@ img {
 .custom-page .page-info,
 .custom-page .page-meta {
   display: none;
+}
+
+.tab-list-nav {
+  background-color: var(--theme-color);
+}
+
+.tab-list-nav button {
+  color: var(--white);
+}
+
+.tab-list-nav button.active,
+.tab-list-nav-item:hover {
+  color: initial;
+}
+
+html[data-theme=dark] .tab-item {
+  background: var(--bg-color);
+}
+
+html[data-theme=dark] #app .tab-list-nav button.active {
+  color: var(--white);
+}
+
+html[data-theme=dark] #app .tab-list-nav-item:hover {
+  color: var(--black);
+}
+
+#tab-3-0 > figure > img {
+  width: 50%;
 }
 
 iframe.contact-form {

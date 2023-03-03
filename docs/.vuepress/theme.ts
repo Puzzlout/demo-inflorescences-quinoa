@@ -6,10 +6,10 @@ import { enNavBarConfig, frNavBarConfig } from './configs/navbar';
 
 export default hopeTheme({
   //path.resolve(__dirname, './theme'),
-  hostname: 'https://example.com',
+  hostname: 'https://demo-inflorescences.netlify.app',
   author: {
     name: 'Jeremie Litzler',
-    url: 'https://example.com',
+    url: 'https://demo-inflorescences.netlify.app',
   },
   // repo: 'Puzzlout/demo-inflorescences-quinoa',
   // docsRepo: 'https://github.com/Puzzlout/demo-inflorescences-quinoa',
@@ -28,9 +28,10 @@ export default hopeTheme({
       sidebar: false,
     },
   },
+  toc: false,
   displayFooter: true,
   footer:
-    'GPLv3 Licensed | <a href="https://example.com/page/terms" title="Read terms and conditions of this website">Terms</a>',
+    'GPLv3 Licensed | <a href="https://demo-inflorescences.netlify.app/page/mentions-legales" title="Lire les mentions légales">Mentions légales</a>',
   plugins: {
     // blog: true,
     // comment: {
@@ -72,7 +73,7 @@ export default hopeTheme({
       //I'm not sure I need it for now
       //stylize: []
       //See https://vuepress-theme-hope.github.io/v2/guide/markdown/tabs.html
-      //tabs: true,
+      tabs: true,
     },
     pwa: {
       cacheHTML: true,
