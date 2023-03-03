@@ -23,7 +23,7 @@ article: false
 
 @tab Quinoa mature
 
-![Inflorescences de quinoa mature](/images/inflorescences-de-quinoa-a-maturite.JPG)
+![Inflorescences de quinoa mature](/images/inflorescences-de-quinoa-a-maturite.jpg)
 :::
 
 Cultivé depuis plus de 7000 ans dans les Andes, le quinoa est reconnu pour ses qualités nutritionnelles exceptionnelles.
@@ -51,7 +51,7 @@ Nous vous le proposons :
   - ⏩ Acheter maintenant [en 3 kg](https://buy.stripe.com/test_4gwcMNeTrarO0eY6op)
   - ⏩ Acheter maintenant [en 6 kg](https://buy.stripe.com/test_fZe8wxcLjfM8gdW5km) !
 
-![Une poignée de quinoa dans une main](/images/poignee-de-quinoa-dans-une-main-2.JPG)
+![Une poignée de quinoa dans une main](/images/poignee-de-quinoa-dans-une-main-2.jpg)
 
 ## Comment le préparer
 

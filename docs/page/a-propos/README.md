@@ -1,15 +1,8 @@
 ---
 title: Qui sommes-nous
-description: 'Débutée en 2021, la production de quinoa sur la ferme familiale,
-  située à Hermeville, en Seine-Maritime. Soucieux de proposer une alimentation
-  de qualité aux consommateurs, nous cultivons dans une démarche d’agroécologie
-  :  protection des sols, de la ressource en eau et de la biodiversité. C’est
-  ainsi que nous sommes actuellement certifiés exploitation à Haute Valeur
-  Environnementale (HVE) de niveau 2, le niveau 3 sera atteint pour la récolte
-  prochaine.'
-heroImage: docs/.vuepress/dist/camille-vasset-dans-le-champs-de-quinoa-mature-2.JPG
-heroAlt: Camille se trouve dans un champ de quinoa prêt pour la moisson, comme
-  le montre la moissonneuse-batteuse dans le fond de l'image.
+description: 'Débutée en 2021, la production de quinoa sur la ferme familiale, située à Hermeville, en Seine-Maritime. Soucieux de proposer une alimentation de qualité aux consommateurs, nous cultivons dans une démarche d’agroécologie :  protection des sols, de la ressource en eau et de la biodiversité. C’est ainsi que nous sommes actuellement certifiés exploitation à Haute Valeur Environnementale (HVE) de niveau 2, le niveau 3 sera atteint pour la récolte prochaine.'
+heroImage: /images/camille-vasset-dans-le-champs-de-quinoa-mature-2.jpg
+heroAlt: Camille se trouve dans un champ de quinoa prêt pour la moisson, comme le montre la moissonneuse-batteuse dans le fond de l'image.
 date: 2023-02-26T11:41:05.333Z
 head:
   - - meta
@@ -21,7 +14,7 @@ containerClass: custom-page
 
 ## Notre histoire et nos valeurs
 
-![Camille Vasset dans son champ de quinoa](/images/camille-vasset-dans-le-champs-de-quinoa-mature-2.JPG)
+![Camille Vasset dans son champ de quinoa](/images/camille-vasset-dans-le-champs-de-quinoa-mature-2.jpg)
 
 Je m'appelle Camille Vasset et j’ai débuté en 2021 la production de quinoa sur la ferme familiale, située à Hermeville, en Seine-Maritime.
 
@@ -39,4 +32,4 @@ C’est ainsi que nous sommes actuellement certifiés "exploitation à Haute Val
 
 [Découvrez notre quinoa 🍚](../le-quinoa//README.md) {.buy-quinoa-call-to-action}
 
-![Récolte du quinoa par une moissonneuse-batteuse](/images/recolte-du-quinoa-par-une-moissoneuse-batteuse.JPG)
+![Récolte du quinoa par une moissonneuse-batteuse](/images/recolte-du-quinoa-par-une-moissoneuse-batteuse.jpg)
