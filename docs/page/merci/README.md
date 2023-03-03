@@ -1,4 +1,5 @@
 ---
+containerClass: custom-page
 title: 'Merci pour votre achat'
 description: 'Votre commande va être préparée dans les plus brefs délais.'
 #date:
