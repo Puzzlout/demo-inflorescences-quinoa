@@ -43,15 +43,14 @@ Il est cultivé **sans intrants**, en Normandie.
 
 Nous vous le proposons :
 
-- en sachets de 350g en kraft à zip refermable ⏩[Acheter maintenant](https://buy.stripe.com/test_dR6eUV4eN1VigdW000) !
+- en échantillon pour 1 ou 2 personnes entre **x euros** et **x euros**,
+- en paire de 2 sachets kraft de 350g avec zip refermable pour 9 euros,
+- en sacs de 3 à 6 kg entre **x euros** et **x euros**
 
-![Sachet kraft Inflorescence](/images/sachet-kraft-inflorescence.jpg) {.product-image-50vw}
+[Je commande mon quinoa 🍚](../commande-de-quinoa/README.md) {.buy-quinoa-call-to-action}
 
-- en sacs de 3 à 6 kg
-  - ⏩ Acheter maintenant [en 3 kg](https://buy.stripe.com/test_4gwcMNeTrarO0eY6op)
-  - ⏩ Acheter maintenant [en 6 kg](https://buy.stripe.com/test_fZe8wxcLjfM8gdW5km) !
-
-![Une poignée de quinoa dans une main](/images/poignee-de-quinoa-dans-une-main-2.jpg)
+<!-- ![Sachet kraft Inflorescence](/images/sachet-kraft-inflorescence.jpg) {.product-image-50vw} -->
+<!-- ![Une poignée de quinoa dans une main](/images/poignee-de-quinoa-dans-une-main-2.jpg) -->
 
 ## Comment le préparer
 
