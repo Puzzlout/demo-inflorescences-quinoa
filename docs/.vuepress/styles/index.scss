@@ -72,12 +72,8 @@ figcaption {
   scale: 1.05;
 }
 
-.home-page .hero-info {
-  margin-left: 2em;
-}
-
-.home-page .hero-info h1,
-.home-page .hero-info .description {
+.home-page .vp-hero-info h1,
+.home-page .vp-hero-info .vp-description {
   color: var(--white);
 }
 
@@ -88,25 +84,8 @@ html[data-theme=dark] .action-button.secondary {
   color: var(--black);
 }
 
-.buy-quinoa-call-to-action {
-  display: flex;
-  justify-content: center;
-  font-size: 2rem;
-}
-.buy-quinoa-call-to-action a {
-  background-color: var(--theme-color);
-  color: var(--white);
-  border-radius: 20em;
-  padding: 0 1em;
-}
-
-.buy-quinoa-call-to-action a:hover,
-.buy-quinoa-call-to-action a:focus {
-  border: 1px solid var(--black);
-}
-
-.home-page .hero-info-wrapper img,
-.hero-image {
+.home-page .vp-hero-info-wrapper img,
+.vp-hero-image {
   border-radius: 20em;
 }
 /* LAYOUT */
@@ -115,7 +94,7 @@ html[data-theme=dark] .action-button.secondary {
   //   margin: 0;
   // }  
 }
-.home-page .project {
+.home-page .vp-project-home {
      background: url("/images/poignee-de-quinoa-dans-une-main-2-overlay.jpg") center/cover no-repeat;
 }
 // .home-page header,
@@ -129,18 +108,12 @@ html[data-theme=dark] .action-button.secondary {
   justify-content: center;
 }
 
-.theme-hope-content .author-image { 
+.vp-hero-image { 
   display: flex;
   justify-content: center;
 }
-.theme-hope-content .author-image img {
+.vp-hero-image img {
   width: 10vw;
-}
-
-.blog-info-list .category-wrapper .category-list-wrapper,
-.blog-info-list .tag-wrapper .tag-list-wrapper {
-    max-height: 30em;
-    overflow-y: scroll;
 }
 
 .custom-page .page-info,
@@ -236,37 +209,20 @@ iframe.newsletter-embed html {
   width: 12.5em;
 }
 
-.participate .action-button {
-  display: inline-block;
-  overflow: hidden;
-  margin: 0;
-  padding: 0.75rem 1.5rem;
-  border: 2px solid var(--theme-color);
-  border-radius: 0.5rem;
-  color: var(--theme-color);
-  font-size: 1.2rem;
-  transition: color var(--color-transition), color var(--color-transition);
-}
-
-.participate .action-button.primary {
-  background: var(--theme-color);
-  color: var(--white);
-}
-
-.participate .participate-options {
+.buy-quinoa-call-to-action {
   display: flex;
-  flex-direction: column;
-  text-align: center;
-  justify-content: space-around;
+  justify-content: center;
+  font-size: 2rem;
 }
 
-@media (min-width: 30em) {
-  .participate .participate-options {
-    display: flex;
-    flex-direction: row;
-  }
+.buy-quinoa-call-to-action a {
+  background-color: var(--theme-color);
+  color: var(--white);
+  border-radius: 20em;
+  padding: 0 1em;
 }
 
-.participate article {
-  margin-bottom: 1em;
+.buy-quinoa-call-to-action a:hover,
+.buy-quinoa-call-to-action a:focus {
+  border: 1px solid var(--black);
 }
