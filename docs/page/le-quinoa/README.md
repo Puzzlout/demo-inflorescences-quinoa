@@ -47,7 +47,7 @@ Nous vous le proposons :
 - en paire de 2 sachets kraft de 350g avec zip refermable pour 9 euros,
 - en sacs de 3 à 6 kg entre **x euros** et **x euros**
 
-[Je commande mon quinoa 🍚](../commande-de-quinoa/README.md) {.buy-quinoa-call-to-action}
+[Commander du quinoa 🍚](../commande-de-quinoa/README.md) {.buy-quinoa-call-to-action}
 
 <!-- ![Sachet kraft Inflorescence](/images/sachet-kraft-inflorescence.jpg) {.product-image-50vw} -->
 <!-- ![Une poignée de quinoa dans une main](/images/poignee-de-quinoa-dans-une-main-2.jpg) -->

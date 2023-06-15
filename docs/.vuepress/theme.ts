@@ -32,6 +32,7 @@ export default hopeTheme({
   displayFooter: true,
   footer:
     'GPLv3 Licensed | <a href="https://demo-inflorescences.netlify.app/page/mentions-legales" title="Lire les mentions légales">Mentions légales</a>',
+  darkmode: 'disable',
   plugins: {
     // blog: true,
     // comment: {
