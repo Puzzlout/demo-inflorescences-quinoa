@@ -1,6 +1,6 @@
 {
   "name": "demo-inflorescence",
-  "version": "1.0.34",
+  "version": "1.0.35",
   "description": "Site web d'Inflorescense, producteur de Quinoa en Normandie",
   "main": "index.js",
   "repository": "https://github.com/Puzzlout/demo-inflorescences-quinoa",
@@ -18,6 +18,6 @@
   },
   "dependencies": {
     "mathjax-full": "^3.2.2",
-    "vuepress-theme-hope": "2.0.0-beta.240"
+    "vuepress-theme-hope": "2.0.0-beta.242"
   }
 }
