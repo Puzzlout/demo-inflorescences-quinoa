@@ -49,6 +49,10 @@ figcaption {
   color: var(--white);
 }
 
+#main-description {
+  color: white
+}
+
 html[data-theme='dark'] body,
 html[data-theme='dark'] .navbar .nav-item > .nav-link,
 html[data-theme='dark'] .dropdown-wrapper .dropdown-title,
